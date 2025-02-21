@@ -1,0 +1,15 @@
+name: tutorial_env
+channels:
+  - defaults
+  - conda-forge  # For more widely available packages like ipywidgets
+dependencies:
+  - numpy>=1.20
+  - matplotlib>=3.4
+  - scipy>=1.6
+  - scikit-learn>=0.24
+  - plotly>=5.0
+  - jupyterlab>=3.0
+  - ipywidgets>=7.0  # For interactive widgets with Plotly in Jupyter
+  - ipython>=7.16    # For IPython display tools in Jupyter
+  - ffmpeg           # For saving Matplotlib animations as video files
+  #- imagemagick      # Alternative for saving Matplotlib animations as GIF
