@@ -46,7 +46,7 @@ Many of the concepts originate from physics, but we strive to present them in a 
 
 **Contributions** 
 
-- Tutorial_1_eigenshapes: Irina Koshok, Anouk Béraud
+- Tutorial_1_eigenshapes: Irina Korshok, Anouk Béraud
 
 - Tutorial_2_statespace: Akira Kawano and Anouk Béraud
 
