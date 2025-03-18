@@ -1,7 +1,5 @@
 # Behavior-Tutorials
 
-Hello! Welcome to the Stephens Unit tutorials. 
-
 **Overview of the tutorials**
 
 We offer three tutorials covering distinct yet interconnected topics. While they are technically independent, completing them in order may be beneficial.
@@ -48,9 +46,11 @@ Many of the concepts originate from physics, but we strive to present them in a 
 
 **Contributions** 
 
-Tutorial_1_eigenshapes: Irina Koshok, Anouk Béraud
-Tutorial_2_statespace: Akira Kawano and Anouk Béraud
-Tutorial_3_markovchain: Akira Kawano and Anouk Béraud
+- Tutorial_1_eigenshapes: Irina Koshok, Anouk Béraud
+
+- Tutorial_2_statespace: Akira Kawano and Anouk Béraud
+
+- Tutorial_3_markovchain: Akira Kawano and Anouk Béraud
 
 Under the supervision of Greg J Stephens. 
 
