@@ -46,13 +46,7 @@ Many of the concepts originate from physics, but we strive to present them in a 
 
 **Contributions** 
 
-- Tutorial_1_eigenshapes: Irina Korshok, Anouk Béraud
-
-- Tutorial_2_statespace: Akira Kawano and Anouk Béraud
-
-- Tutorial_3_markovchain: Akira Kawano and Anouk Béraud
-
-Under the supervision of Greg J Stephens. 
+These tutorials were written by Akira Kawano, Anouk Béraud and Irina Korshok under the supervision of Greg J Stephens. 
 
 **Acknowledgments** 
 
