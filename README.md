@@ -1,8 +1,8 @@
-# Behavior-Tutorials
+# Physics of Behavior Tutorials
 
 **Overview of the tutorials**
 
-We offer three tutorials covering distinct yet interconnected topics. While they are technically independent, completing them in order may be beneficial.
+We offer three tutorials covering the analysis of organism-scale behavior through distinct yet interconnected topics. These topics are rooted in the ideas and tools of the physics of complex systems and thus we denote this collection as "Physics of Behavior". While they are technically independent, completing them in order may be beneficial.  We hope to add to this collection in the future.
 
 1. Posture Space Analysis: the first tutorial explores posture space analysis by demonstrating how to decompose high-dimensional postural data into a few meaningful eigenpostures using Principal Component Analysis (PCA). The dataset used comes from C. elegans posture tracking.
 2. Reconstructing Posture Space Dynamics: the second tutorial introduces the concept of state space and chaotic systems through a toy model. It then presents a data-driven technique for reconstructing the state space of that model.
